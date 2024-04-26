@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "c9240ed6-ad6b-4909-b58e-c292fa94d81d",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c9240ed6-ad6b-4909-b58e-c292fa94d81d",
-        "visible": true
+        "visible": false
       },
       "displayName": "scannonturtle",
       "id": "6c48a",

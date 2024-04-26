@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "79bfd558-baab-416f-8c7b-fe170bb3f0e1",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "79bfd558-baab-416f-8c7b-fe170bb3f0e1",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_NativeWarrior",
       "id": "6c48a",

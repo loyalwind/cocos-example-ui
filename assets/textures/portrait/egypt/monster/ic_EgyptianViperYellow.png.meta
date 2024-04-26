@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "4cbd61e3-a8eb-454a-b092-74381faf3e0e",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "4cbd61e3-a8eb-454a-b092-74381faf3e0e",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_EgyptianViperYellow",
       "id": "6c48a",

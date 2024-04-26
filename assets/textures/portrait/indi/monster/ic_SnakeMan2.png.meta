@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "1776e31a-cee2-44bb-9b29-fd18048c511e",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "1776e31a-cee2-44bb-9b29-fd18048c511e",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_SnakeMan2",
       "id": "6c48a",

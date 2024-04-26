@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "6c0376d5-5485-4dfc-a2f1-8fb6676c07d1",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_TheGiantBlackSpider",
       "id": "6c48a",

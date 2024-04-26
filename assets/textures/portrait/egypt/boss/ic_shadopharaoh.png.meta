@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "a65ccbfc-46b5-4c44-b9ed-14cd621166a9",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "a65ccbfc-46b5-4c44-b9ed-14cd621166a9",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_shadopharaoh",
       "id": "6c48a",

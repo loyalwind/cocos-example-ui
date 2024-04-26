@@ -1,0 +1,26 @@
+import { _decorator, Component, Node } from 'cc';
+const { ccclass, property } = _decorator;
+
+/**
+ * @Description: 
+ * @FileName: <%CamelCaseClassName%>
+ * @Author: <%Author%>
+ * @CreateDate: <%DateTime%>
+ * @FilePath: <%URL%>
+ */
+
+@ccclass('<%CamelCaseClassName%>')
+export class <%CamelCaseClassName%> extends Component {
+    // 定义属性供creator布局使用
+    // @property({type: Number, tooltip: "test 属性"})
+    // myNum: number = 0;
+    start() {
+        // Your initialization goes here.
+
+    }
+
+    update(deltaTime: number) {
+        // Your update function goes here.
+
+    }
+}

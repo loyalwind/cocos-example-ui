@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "f8dbb1b3-bed5-4acb-8307-fb94ce08d0dd",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_sninetales",
       "id": "6c48a",

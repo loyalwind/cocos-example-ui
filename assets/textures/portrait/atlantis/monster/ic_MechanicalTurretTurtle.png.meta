@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "2c84d042-ef14-43b8-9650-4b6155790a83",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "2c84d042-ef14-43b8-9650-4b6155790a83",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_MechanicalTurretTurtle",
       "id": "6c48a",

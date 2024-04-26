@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "52c11025-13af-4d70-98eb-085e5a9e81b6",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "52c11025-13af-4d70-98eb-085e5a9e81b6",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_BlueBatteryTurtle",
       "id": "6c48a",

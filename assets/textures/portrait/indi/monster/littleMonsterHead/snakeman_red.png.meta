@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "15001946-ccf1-42f9-b7ec-44a5748ffbdf",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "15001946-ccf1-42f9-b7ec-44a5748ffbdf",
-        "visible": true
+        "visible": false
       },
       "displayName": "snakeman_red",
       "id": "6c48a",

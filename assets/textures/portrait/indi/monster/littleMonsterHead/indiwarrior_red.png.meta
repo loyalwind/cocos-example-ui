@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "59b9d9c6-7c1e-4cd9-aaa9-5c5dac2d5081",
-        "visible": true
+        "visible": false
       },
       "displayName": "indiwarrior_red",
       "id": "6c48a",

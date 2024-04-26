@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "39c01d9f-4fa2-4f90-ad50-c8f4c35cc5e6",
-        "visible": true
+        "visible": false
       },
       "displayName": "Material_baseColor",
       "id": "6c48a",

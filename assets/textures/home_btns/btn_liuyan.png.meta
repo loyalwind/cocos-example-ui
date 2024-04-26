@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a",
@@ -33,7 +33,7 @@
       "subMetas": {}
     },
     "f9941": {
-      "ver": "1.0.11",
+      "ver": "1.0.12",
       "importer": "sprite-frame",
       "uuid": "4b4a59b1-e1c5-45be-b1e3-506eb82ee07a@f9941",
       "imported": true,

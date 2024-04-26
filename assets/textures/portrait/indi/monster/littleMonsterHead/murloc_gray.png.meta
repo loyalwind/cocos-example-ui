@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "951e6a60-63d5-456f-9b46-ac6332b896fa",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "951e6a60-63d5-456f-9b46-ac6332b896fa",
-        "visible": true
+        "visible": false
       },
       "displayName": "murloc_gray",
       "id": "6c48a",

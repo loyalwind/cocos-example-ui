@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "e6e4f4d0-edad-4eaa-9427-208b91c3b9b6",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_chterminator",
       "id": "6c48a",

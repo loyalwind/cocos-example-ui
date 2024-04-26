@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "6fd3a79c-d071-4705-9525-5bde517ab96e",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "6fd3a79c-d071-4705-9525-5bde517ab96e",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_BigCrab",
       "id": "6c48a",

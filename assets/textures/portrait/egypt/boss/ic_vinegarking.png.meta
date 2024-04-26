@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "70c73fe6-bed6-4c57-ae64-40f3418a9e1d",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "70c73fe6-bed6-4c57-ae64-40f3418a9e1d",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_vinegarking",
       "id": "6c48a",

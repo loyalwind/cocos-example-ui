@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "c96e50ac-ef08-432a-8658-124800b484ef",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c96e50ac-ef08-432a-8658-124800b484ef",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_cipacret",
       "id": "6c48a",

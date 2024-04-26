@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "f4174ccb-686c-4d54-ab04-e41cca2251d9",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "f4174ccb-686c-4d54-ab04-e41cca2251d9",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_BlueTentacle",
       "id": "6c48a",

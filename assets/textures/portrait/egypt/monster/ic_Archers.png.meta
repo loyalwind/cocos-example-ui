@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "431653e9-3e0a-45f9-bd1f-d6398c7488a2",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "431653e9-3e0a-45f9-bd1f-d6398c7488a2",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_Archers",
       "id": "6c48a",

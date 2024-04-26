@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "db68e56f-b77d-41d1-b5bb-f600a7df3de7",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "db68e56f-b77d-41d1-b5bb-f600a7df3de7",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_TheBlueWizard",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "1b57d4d6-082c-4a79-abc0-86c9b934ff5c",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "1b57d4d6-082c-4a79-abc0-86c9b934ff5c",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_Mummy",
       "id": "6c48a",

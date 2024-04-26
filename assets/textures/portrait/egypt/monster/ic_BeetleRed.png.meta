@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "88eca76d-decc-4ee3-bb6c-4e5204221af0",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "88eca76d-decc-4ee3-bb6c-4e5204221af0",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_BeetleRed",
       "id": "6c48a",

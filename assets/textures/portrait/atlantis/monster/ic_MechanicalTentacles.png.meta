@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "c273d0b6-7ca5-4ca2-a8e1-53b9c1366680",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_MechanicalTentacles",
       "id": "6c48a",

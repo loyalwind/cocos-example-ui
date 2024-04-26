@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "4d2cd84d-fde9-498d-8261-68f590bc9b09",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "4d2cd84d-fde9-498d-8261-68f590bc9b09",
-        "visible": true
+        "visible": false
       },
       "displayName": "indiwarrior_knife",
       "id": "6c48a",

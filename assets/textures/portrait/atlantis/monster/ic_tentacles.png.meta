@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "2df61e48-4bd6-4462-a19f-cfe9eb81262c",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "2df61e48-4bd6-4462-a19f-cfe9eb81262c",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_tentacles",
       "id": "6c48a",

@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "cb7a051a-e0dd-44ad-a446-4079ed812fc9",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "cb7a051a-e0dd-44ad-a446-4079ed812fc9",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_RedTentacles",
       "id": "6c48a",

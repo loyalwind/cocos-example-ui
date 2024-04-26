@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "1c30fff0-a1f3-457c-ac98-53517ab3cdc5",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "1c30fff0-a1f3-457c-ac98-53517ab3cdc5",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_GreenWizard",
       "id": "6c48a",

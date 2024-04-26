@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "5bc5885b-d89d-4dac-acac-0435d6054b0f",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "5bc5885b-d89d-4dac-acac-0435d6054b0f",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_Sirens",
       "id": "6c48a",

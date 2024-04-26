@@ -1,5 +1,5 @@
 {
-  "ver": "1.0.25",
+  "ver": "1.0.26",
   "importer": "image",
   "imported": true,
   "uuid": "e6433f36-1fb4-42c5-8477-c8413f76232a",
@@ -27,7 +27,7 @@
         "anisotropy": 0,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "e6433f36-1fb4-42c5-8477-c8413f76232a",
-        "visible": true
+        "visible": false
       },
       "displayName": "ic_hugeshark",
       "id": "6c48a",

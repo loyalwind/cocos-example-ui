@@ -1,5 +1,5 @@
 {
-  "ver": "2.3.4",
+  "ver": "2.3.12",
   "importer": "gltf",
   "imported": true,
   "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
@@ -8,7 +8,7 @@
   ],
   "subMetas": {
     "51885": {
-      "ver": "1.0.12",
+      "ver": "1.0.14",
       "importer": "gltf-scene",
       "name": "cocos_anim_hurt.prefab",
       "id": "51885",
@@ -24,7 +24,7 @@
       }
     },
     "4cafd": {
-      "ver": "1.0.16",
+      "ver": "1.0.17",
       "importer": "gltf-animation",
       "name": "cocos_anim_hurt.animation",
       "id": "4cafd",
@@ -61,7 +61,8 @@
             "name": "cocos_anim_hurt",
             "from": 0,
             "to": 0.5,
-            "wrapMode": 2
+            "wrapMode": 2,
+            "previousId": "4cafd"
           }
         ]
       }
@@ -76,6 +77,24 @@
       "textures": [],
       "materials": []
     },
-    "imageMetas": []
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
   }
 }
